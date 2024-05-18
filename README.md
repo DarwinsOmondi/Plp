@@ -35,7 +35,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/Drawins/Uni_Talk.git
+git clone https://github.com/Drawins/Plp.git
 cd un_italk_backend
 Install dependencies:
 
@@ -69,7 +69,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/Drawins/Uni_Talk.git
+git clone https://github.com/Drawins/Plp.git
 cd un_italk_frontend
 Install dependencies:
 
