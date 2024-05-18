@@ -62,7 +62,7 @@ Serve the application:
 sh
 Copy code
 php artisan serve
-The backend server should now be running at http://localhost:3306.
+The backend server should now be running at http://localhost:8000.
 
 Frontend Setup (Flutter)
 Clone the repository:
